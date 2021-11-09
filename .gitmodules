@@ -1,0 +1,3 @@
+[submodule "ansible-role-hardening"]
+	path = ansible-role-hardening
+	url = git@github.com:theseone51/ansible-role-hardening.git
